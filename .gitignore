@@ -1,0 +1,14 @@
+﻿# IDE files
+.vs/
+.ieda/
+*.user
+
+# Intermediate buil;d files
+packages/
+**/bin/
+**/obj/
+
+# Azure related
+*.azureRMPubxml
+**/csx/
+**/ecf/
